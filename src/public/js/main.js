@@ -17,7 +17,7 @@ Swal.fire({
     console.log(user)
 })
 
-chatBox.addEventListener('keyup', (e) => {
+chatBox.addEventListener('change', (e) => {
 
     if (chatBox.value.trim().length > 0) {
         socket.emit('mensaje', { usuario: user, mensaje: chatBox.value, hora: new Date().toLocaleString() })

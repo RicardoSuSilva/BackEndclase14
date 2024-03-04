@@ -58,20 +58,3 @@ app.post('/upload', upload.single('product'), (req, res) => {
         res.status(500).send("Error al cargar imagen")
     }
 })
-/*
-app.get('/static', (req,res) => {
-    
-        const prods = [
-            {id:1, title: "Celular", price: 1500, img: "./img/img-6.png"},
-            {id:2, title: "Televisor", price: 1800, img: "./img/img-11.png"},
-            {id:3, title: "Tablet", price: 1200, img: "./img/img-11.png"},
-            {id:4, title: "Notebook", price: 1900, img: "./img/img-11.png"}
-
-        ]
-
-        res.render('products', {
-            mostrarProductos: true,
-            productos: prods,
-        css: 'product.css',
-    })
-}) */
