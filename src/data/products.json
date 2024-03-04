@@ -1,0 +1,71 @@
+[{
+    "title":"Camisa Vestir",
+    "description":"70% Algodon 30%Poplin",
+    "price":12000,
+    "stock":20,
+    "code":"A123",
+    "thumbnail":[],
+    "id":"014407cd7c708762593b",
+    "img":"img-6.png"
+    },
+    
+    {
+    "title":"Traje Vestir",
+    "description":"70% Algodon 30%Poliester",
+    "price":120000,
+    "stock":20,
+    "code":"Y234",
+    "thumbnail":[],
+    "id":"c857b5db5b1e6d6620d8",
+    "img":"img-11.png"
+    },
+    
+    {
+    "title":"Pantalon Denim",
+    "description":"Tela Denim 6 ozs.",
+    "price":15000,
+    "stock":22,
+    "code":"A458",
+    "thumbnail":[],
+    "id":"ff948917d7c6c769ea8d"
+    },
+    
+    {
+    "title":"Remera",
+    "description":"100% Algodon",
+    "price":8000,
+    "stock":25,
+    "code":"L123",
+    "thumbnail":[],
+    "id":"a7c9cc1d1ca035d12a74"
+    },
+    
+    {
+    "title":"Gorra Urbana",
+    "description":"Denim 4 ozs.",
+    "price":8000,
+    "stock":20,
+    "code":"Z789",
+    "thumbnail":[],
+    "id":"fd2e15b51b1ce91d2370"
+    },
+    
+    {
+    "title":"Botines Urbanos",
+    "description":"Todoterreno cuero negro",
+    "price":80000,
+    "stock":20,
+    "code":"D654",
+    "thumbnail":[],
+    "id":"9fbad54faf579976ae71"
+    },
+    
+    {
+    "title":"Zapatillas Urbanas",
+    "description":"Adidas",
+    "price":30000,
+    "stock":20,
+    "code":"B963",
+    "thumbnail":[],
+    "id":"d0de5f925d4314964923"
+    }]
